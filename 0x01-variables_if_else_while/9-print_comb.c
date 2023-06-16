@@ -9,7 +9,7 @@
 
 int main(void)
 {
-	int digit = 9;
+	int digit = 0;
 
 	while (digit <= 9)
 	{
