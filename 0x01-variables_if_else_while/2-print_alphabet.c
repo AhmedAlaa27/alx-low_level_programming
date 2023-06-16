@@ -17,7 +17,7 @@ int main(void)
 		putchat(ch);
 		ch++;
 	}
-	putchar('\n);
+	putchar('\n');
 
 	return (0);
 }
