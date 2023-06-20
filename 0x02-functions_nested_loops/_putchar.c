@@ -7,7 +7,7 @@
  *
  * Description: print all alphabet letters
  *
- * Return: Always 0 (success)
+ * Return: 1 On succes, -1 On error
 */
 
 int _putchar(char c)
