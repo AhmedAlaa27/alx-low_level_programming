@@ -4,7 +4,7 @@
  * print_alpha - print use _putchar function
 */
 
-void print_alphapet(void)
+void print_alphabet(void)
 {
 	int ch;
 
